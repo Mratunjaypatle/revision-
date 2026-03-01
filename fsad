@@ -1,0 +1,55 @@
+[1mdiff --git a/main.html b/main.html[m
+[1mindex 3b8d543..b1b9b2a 100644[m
+[1m--- a/main.html[m
+[1m+++ b/main.html[m
+[36m@@ -1,47 +1 @@[m
+[31m-<!DOCTYPE html>[m
+[31m-<html lang="en">[m
+[31m-[m
+[31m-<head>[m
+[31m-    <meta charset="UTF-8">[m
+[31m-    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[31m-    <title>Document</title>[m
+[31m-</head>[m
+[31m-<style>[m
+[31m-  ul {[m
+[31m-  list-style-type: none;[m
+[31m-  margin: 0;[m
+[31m-  padding: 0;[m
+[31m-  width: 200px;[m
+[31m-  background-color: #f1f1f1;[m
+[31m-}[m
+[31m-[m
+[31m-li a {[m
+[31m-  display: block;[m
+[31m-  color: black;[m
+[31m-  padding: 8px 16px;[m
+[31m-  text-decoration: none;[m
+[31m-}[m
+[31m-[m
+[31m-/* Change the link and background color on hover */[m
+[31m-li a:hover {[m
+[31m-  background-color: #555555;[m
+[31m-  color: white;[m
+[31m-}[m
+[31m-</style>[m
+[31m-[m
+[31m-<body>[m
+[31m-[m
+[31m-[m
+[31m-[m
+[31m-    <h4>Revision File</h4>[m
+[31m-    <div>[m
+[31m-        <ul>[m
+[31m-            <li><a href="default.asp">Home</a></li>[m
+[31m-            <li><a href="news.asp">News</a></li>[m
+[31m-            <li><a href="contact.asp">Contact</a></li>[m
+[31m-            <li><a href="about.asp">About</a></li>[m
+[31m-        </ul>[m
+[31m-    </div>[m
+[31m-</body>[m
+[31m-[m
+[31m-</html>[m
+\ No newline at end of file[m
+[32m+[m[32m<h4>Revision File</h4>[m
+\ No newline at end of file[m
